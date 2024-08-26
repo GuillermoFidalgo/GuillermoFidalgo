@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Graduate Student from the University of Puerto Rico - Mayagüez doing a Master's degree in High Energy Physics!
+I'm a Graduate Student from the University of Alabama in pursuit of a PhD in High Energy Physics!
 You can find out more on my [webpage](https://guillermofidalgo.github.io/).
 - I'm a member of HSF and IRIS-HEP
 - Interested in Machine Learning
